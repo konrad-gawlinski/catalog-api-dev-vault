@@ -1,0 +1,2 @@
+database:
+  dsn: pgsql://webappuser-xyz:passwd@host:5432/catalog-api
